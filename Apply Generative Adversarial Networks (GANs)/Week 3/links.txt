@@ -1,0 +1,6 @@
+https://github.com/togheppi/CycleGAN
+https://github.com/mingyuliutw/UNIT
+https://github.com/NVlabs/MUNIT
+
+Notebooks:
+https://github.com/aitorzip/PyTorch-CycleGAN/blob/master/datasets.py

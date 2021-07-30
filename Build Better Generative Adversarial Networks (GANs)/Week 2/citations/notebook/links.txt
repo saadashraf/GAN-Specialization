@@ -1,0 +1,3 @@
+https://sites.google.com/view/fatecv-tutorial/schedule?authuser=0
+https://developers.google.com/machine-learning/glossary/fairness
+http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html

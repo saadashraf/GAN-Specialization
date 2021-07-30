@@ -1,0 +1,4 @@
+https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/
+https://discuss.pytorch.org/t/how-to-apply-exponential-moving-average-decay-for-variables/10856/3
+https://en.wikipedia.org/wiki/Euler%E2%80%93Maruyama_method
+http://blog.shakirm.com/2015/09/machine-learning-trick-of-the-day-3-hutchinsons-trick/

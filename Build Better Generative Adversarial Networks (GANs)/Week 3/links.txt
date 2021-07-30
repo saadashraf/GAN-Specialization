@@ -1,0 +1,6 @@
+http://jalammar.github.io/illustrated-transformer/
+https://medium.com/@jonathan_hui/gan-stylegan-stylegan2-479bdf256299
+https://github.com/rosinality/style-based-gan-pytorch
+https://github.com/NVlabs/stylegan
+https://www.gwern.net/images/gan/stylegan/2019-03-16-stylegan-facestraining.mp4
+https://medium.com/syncedreview/facebook-ai-proposes-group-normalization-alternative-to-batch-normalization-fb0699bffae7

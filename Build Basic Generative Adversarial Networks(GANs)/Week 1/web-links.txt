@@ -1,0 +1,10 @@
+https://www.thispersondoesnotexist.com/
+https://www.researchgate.net/figure/Latent-space-visualization-of-the-10-MNIST-digits-in-2-dimensions-of-both-N-VAE-left_fig2_324182043
+https://arxiv.org/abs/1912.04958
+https://arxiv.org/abs/1903.07291
+https://arxiv.org/abs/1905.08233
+http://arxiv.org/abs/1610.07584
+http://thesecatsdonotexist.com/
+https://arxiv.org/abs/1809.11096
+https://pytorch.org/docs/stable/index.html#pytorch-documentation
+http://yann.lecun.com/exdb/mnist/

@@ -1,0 +1,3 @@
+https://openai.com/blog/glow/
+https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias
